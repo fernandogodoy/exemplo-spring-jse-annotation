@@ -2,7 +2,7 @@ Projeto criado para exemplificar a criação de um projeto Java utilizando Sprin
 
 <html>
 <body>
-<h6>Dependências</h6>
+Dependências do projeto
   <pre>
     spring-beans-4.0.2.RELEASE.jar
     spring-context-4.0.2.RELEASE.jar
